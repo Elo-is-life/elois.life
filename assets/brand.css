@@ -1,0 +1,8 @@
+:root {
+  --brand-primary: #34BE80;
+  --brand-accent: #6FD7A8;
+  --brand-bg: #0A0D12;
+  --brand-text: #EDF0F4;
+  --font-heading: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
